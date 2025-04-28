@@ -22,14 +22,14 @@ repository               : "happyBayes/happyBayes.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "cut.ai_logo.png"
+  name             : "cut.ai: Developing the Next-Generation AI-Native BaaS Platform"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
   employer         : "cut.ai"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "f2718@sina.com" 
 
 
   # Social media
