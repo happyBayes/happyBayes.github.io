@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "CAT AI"
+title                    : "CUT AI"
 title_separator          : "-"
-name                     : &name "CAT.AI"
-description              : &description "personal description"
+name                     : &name "CUT.AI"
+description              : &description "Developing the Next-Generation AI-Native BaaS Platform"
 url                      : https://happyBayes.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "happyBayes/happyBayes.github.io"
@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "cut.ai"
   uri              : # URL
   email            : "none@example.org" 
 
