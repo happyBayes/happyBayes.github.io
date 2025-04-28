@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "CUT.AI ：Developing the Next-Generation AI-Native BaaS Platform！"
+title: "Developing the Next-Generation AI-Native BaaS Platform"
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,8 +11,9 @@ redirect_from:
 
 ------
 
-our roadmap
+Our Roadmap
 ======
+
 Phase 1: Launch of the Basic BaaS Version
 ------
 Introducing a foundational BaaS platform that integrates a privacy-enhanced computing engine, microservice AI programming components, dynamic defense sandbox, and global multi-payment templates. This provides users with a privacy-protecting, highly secure, enterprise-grade microservice AI programming tool.
@@ -38,9 +39,9 @@ Build a developer community with a repository of plug-and-play use case projects
 About US
 ======
 1. Experienced Core Team
-Our team members come from leading tech giants, having deeply contributed to billion-user-scale projects such as WeChat Pay, WeChat Red Packet, WeBank, and Tencent Billing. They possess extensive experience in designing and implementing architectures for massive-scale concurrent systems.
-In backend system development, the team has consistently practiced and developed core technical capabilities in high availability, high consistency, high scalability, and high security.
-In billion-user financial scenarios, we have honed AI algorithm engineering capabilities, including complex scenario modeling, high-concurrency inference architectures, and data-closed-loop toolchain development. This encompasses the full-stack technical expertise in multimodal model design, training optimization, and real-time inference. [About US](https://happybayes.github.io/)
+Our team members come from leading tech giants, having deeply contributed to billion-user-scale projects such as WeChat Pay, WeChat Red Packet, WeBank, and Tencent Billing. We possess extensive experience in designing and implementing architectures for massive-scale concurrent systems.
+In backend system development, our team has consistently practiced and developed core technical capabilities in high availability, high consistency, high scalability, and high security.
+In billion-user financial scenarios, we have honed AI algorithm engineering capabilities, including complex scenario modeling, high-concurrency inference architectures, and data-closed-loop toolchain development. This encompasses the full-stack technical expertise in multimodal model design, training optimization, and real-time inference. 
 2. Built on Tencent Cloud Ecosystem, Ensuring Continuous and Stable Operations
 Leveraging Tencent Cloud's leading capabilities in elastic scaling, horizontal expansion, flexible scheduling, privacy protection, and comprehensive monitoring, our BaaS platform provides continuous and stable operational assurance for various types of users. This empowers systems to effortlessly handle traffic peaks and complex business scenarios.
 3. Innovating the Next-Generation AI-Native Backend-as-a-Service Platform
