@@ -19,9 +19,9 @@ Introducing a foundational BaaS platform that integrates a privacy-enhanced comp
 
 Phase 2: Building a Full-Chain AI Programming Ecosystem Collaboration
 ------
-[] Collaborate with AI programming tools like Lovable to establish an AI full-stack development protocol, enabling deep integration between BaaS and AI frontend programming tools. 
-[] Release a hybrid cloud orchestration engine, integrating with public cloud databases to achieve cloud-native convergence, supporting one-click orchestration and deployment across platforms like Tencent Cloud, AWS, Azure, and GCP. 
-[] Launch an early partner program (50+ enterprise integrations), building benchmark use cases in domains such as e-commerce, OTA, Web3, gaming, and social networking.
++ Collaborate with AI programming tools like Lovable to establish an AI full-stack development protocol, enabling deep integration between BaaS and AI frontend programming tools. 
++ Release a hybrid cloud orchestration engine, integrating with public cloud databases to achieve cloud-native convergence, supporting one-click orchestration and deployment across platforms like Tencent Cloud, AWS, Azure, and GCP. 
++ Launch an early partner program (50+ enterprise integrations), building benchmark use cases in domains such as e-commerce, OTA, Web3, gaming, and social networking.
 
 Phase 3: Release of BaaS Pro Version
 ------
@@ -44,8 +44,3 @@ In backend system development, the team has consistently practiced and developed
 Leveraging Tencent Cloud's leading capabilities in elastic scaling, horizontal expansion, flexible scheduling, privacy protection, and comprehensive monitoring, our BaaS platform provides continuous and stable operational assurance for various types of users. This empowers systems to effortlessly handle traffic peaks and complex business scenarios.
 3. Innovating the Next-Generation AI-Native Backend-as-a-Service Platform
 Combining our team's extensive experience in ultra-large-scale projects with Tencent Cloud's technical advantages, we have designed a groundbreaking Backend-as-a-Service (BaaS) platform tailored for internet users. Featuring intelligent elastic architecture, embedded AI components, adaptive security systems, and a data intelligence hub, the platform is dedicated to providing secure, reliable, efficient, and customized backend infrastructure for individual and enterprise users, enabling rapid business deployment and scalable growth.
-
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
