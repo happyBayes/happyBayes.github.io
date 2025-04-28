@@ -28,7 +28,7 @@ Phase 3: Release of BaaS Pro Version
 ------
 Upgrade the product to target high-value scenarios, offering globalized AI product development capabilities. Provide a comprehensive global payment transaction risk control solution, leveraging anti-fraud and dynamic risk governance algorithms to address payment challenges in multiple scenarios, such as e-commerce, gaming, OTA, Web3, social networking.
 
-Phase 4. Industrial Software Interoperability
+Phase 4: Industrial Software Interoperability
 ------
 Through the MCP protocol and AI-driven interface technology, the BaaS platform achieves seamless integration with over 20 commonly used industrial software applications, such as CAD, CAE, and GIS. This enhances the efficiency of customized industrial software development and reduces operational and maintenance costs.
 
@@ -41,7 +41,7 @@ About US
 1. Experienced Core Team
 Our team members come from leading tech giants, having deeply contributed to billion-user-scale projects such as WeChat Pay, WeChat Red Packet, WeBank, and Tencent Billing. We possess extensive experience in designing and implementing architectures for massive-scale concurrent systems.
 In backend system development, our team has consistently practiced and developed core technical capabilities in high availability, high consistency, high scalability, and high security.
-In billion-user financial scenarios, we have honed AI algorithm engineering capabilities, including complex scenario modeling, high-concurrency inference architectures, and data-closed-loop toolchain development. This encompasses the full-stack technical expertise in multimodal model design, training optimization, and real-time inference. 
+In billion-user financial scenarios, we have honed AI algorithm engineering capabilities, including complex scenario modeling, high-concurrency inference architectures, and data-closed-loop toolchain development. This encompasses the full-stack technical expertise in LMM algorithm design, training optimization, and real-time inference. 
 2. Built on Tencent Cloud Ecosystem, Ensuring Continuous and Stable Operations
 Leveraging Tencent Cloud's leading capabilities in elastic scaling, horizontal expansion, flexible scheduling, privacy protection, and comprehensive monitoring, our BaaS platform provides continuous and stable operational assurance for various types of users. This empowers systems to effortlessly handle traffic peaks and complex business scenarios.
 3. Innovating the Next-Generation AI-Native Backend-as-a-Service Platform
