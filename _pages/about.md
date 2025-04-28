@@ -19,13 +19,13 @@ Introducing a foundational BaaS platform that integrates a privacy-enhanced comp
 
 Phase 2: Building a Full-Chain AI Programming Ecosystem Collaboration
 ------
-+ Collaborate with AI programming tools like Lovable to establish an AI full-stack development protocol, enabling deep integration between BaaS and AI frontend programming tools. 
++ Collaborate with front-end AI programming tools to establish an AI full-stack development protocol, enabling deep integration between BaaS and AI frontend programming tools. 
 + Release a hybrid cloud orchestration engine, integrating with public cloud databases to achieve cloud-native convergence, supporting one-click orchestration and deployment across platforms like Tencent Cloud, AWS, Azure, and GCP. 
-+ Launch an early partner program (50+ enterprise integrations), building benchmark use cases in domains such as e-commerce, OTA, Web3, gaming, and social networking.
++ Launch an early partner program (100+ enterprise integrations), building benchmark use cases in domains such as e-commerce, OTA, Web3, gaming, and social networking.
 
 Phase 3: Release of BaaS Pro Version
 ------
-Upgrade the product to target high-value scenarios, offering globalized AI product development capabilities. Provide a comprehensive global payment transaction risk control solution, leveraging anti-fraud and dynamic risk governance algorithms to address payment challenges in multiple scenarios, including e-commerce, gaming, OTA, Web3, and social networking.
+Upgrade the product to target high-value scenarios, offering globalized AI product development capabilities. Provide a comprehensive global payment transaction risk control solution, leveraging anti-fraud and dynamic risk governance algorithms to address payment challenges in multiple scenarios, such as e-commerce, gaming, OTA, Web3, social networking.
 
 Phase 4. Industrial Software Interoperability
 ------
