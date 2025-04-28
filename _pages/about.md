@@ -9,6 +9,34 @@ redirect_from:
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
+
+our roadmap
+======
+
+Phase 1: Launch of the Basic BaaS Version
+------
+Introducing a foundational BaaS platform that integrates a privacy-enhanced computing engine, microservice AI programming components, dynamic defense sandbox, and global multi-payment templates. This provides users with a privacy-protecting, highly secure, enterprise-grade microservice AI programming tool.
+
+Phase 2: Building a Full-Chain AI Programming Ecosystem Collaboration
+------
+[] Collaborate with AI programming tools like Lovable to establish an AI full-stack development protocol, enabling deep integration between BaaS and AI frontend programming tools. 
+[] Release a hybrid cloud orchestration engine, integrating with public cloud databases to achieve cloud-native convergence, supporting one-click orchestration and deployment across platforms like Tencent Cloud, AWS, Azure, and GCP. 
+[] Launch an early partner program (50+ enterprise integrations), building benchmark use cases in domains such as e-commerce, OTA, Web3, gaming, and social networking.
+
+
+
+About US
+======
+1. Experienced Core Team
+Our team members come from leading tech giants, having deeply contributed to billion-user-scale projects such as WeChat Pay, WeChat Red Packet, WeBank, and Tencent Billing. They possess extensive experience in designing and implementing architectures for massive-scale concurrent systems.
+In backend system development, the team has consistently practiced and developed core technical capabilities in high availability, high consistency, high scalability, and high security. In billion-user financial scenarios, they have honed AI algorithm engineering capabilities, including complex scenario modeling, high-concurrency inference architectures, and data-closed-loop toolchain development. This encompasses the full-stack technical expertise in multimodal model design, training optimization, and real-time inference. [About US](https://happybayes.github.io/)
+2. Built on Tencent Cloud Ecosystem, Ensuring Continuous and Stable Operations
+Leveraging Tencent Cloud's leading capabilities in elastic scaling, horizontal expansion, flexible scheduling, privacy protection, and comprehensive monitoring, our BaaS platform provides continuous and stable operational assurance for various types of users. This empowers systems to effortlessly handle traffic peaks and complex business scenarios.
+3. Innovating the Next-Generation AI-Native Backend-as-a-Service Platform
+Combining our team's extensive experience in ultra-large-scale projects with Tencent Cloud's technical advantages, we have designed a groundbreaking Backend-as-a-Service (BaaS) platform tailored for internet users. Featuring intelligent elastic architecture, embedded AI components, adaptive security systems, and a data intelligence hub, the platform is dedicated to providing secure, reliable, efficient, and customized backend infrastructure for individual and enterprise users, enabling rapid business deployment and scalable growth.
+
+
+
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
