@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "CUT.AI Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,43 +9,42 @@ redirect_from:
 
 
 
+
+our roadmap
+======
+
+Phase 1: Launch of the Basic BaaS Version
+------
+Introducing a foundational BaaS platform that integrates a privacy-enhanced computing engine, microservice AI programming components, dynamic defense sandbox, and global multi-payment templates. This provides users with a privacy-protecting, highly secure, enterprise-grade microservice AI programming tool.
+
+Phase 2: Building a Full-Chain AI Programming Ecosystem Collaboration
+------
+[] Collaborate with AI programming tools like Lovable to establish an AI full-stack development protocol, enabling deep integration between BaaS and AI frontend programming tools. 
+[] Release a hybrid cloud orchestration engine, integrating with public cloud databases to achieve cloud-native convergence, supporting one-click orchestration and deployment across platforms like Tencent Cloud, AWS, Azure, and GCP. 
+[] Launch an early partner program (50+ enterprise integrations), building benchmark use cases in domains such as e-commerce, OTA, Web3, gaming, and social networking.
+
+Phase 3: Release of BaaS Pro Version
+------
+Upgrade the product to target high-value scenarios, offering globalized AI product development capabilities. Provide a comprehensive global payment transaction risk control solution, leveraging anti-fraud and dynamic risk governance algorithms to address payment challenges in multiple scenarios, including e-commerce, gaming, OTA, Web3, and social networking.
+
+Phase 4. Industrial Software Interoperability
+------
+Through the MCP protocol and AI-driven interface technology, the BaaS platform achieves seamless integration with over 20 commonly used industrial software applications, such as CAD, CAE, and GIS. This enhances the efficiency of customized industrial software development and reduces operational and maintenance costs.
+
 Phase 5: Continuous Improvement of the Product Ecosystem
+------
 Build a developer community with a repository of plug-and-play use case projects across multiple scenarios. Launch an AI microservice product trading platform to connect algorithm demand and supply sides. Lead the development of an AI microservice interaction protocol, establishing it as the de facto standard for next-generation BaaS.
 
-A data-driven personal website
+About US
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+1. Experienced Core Team
+Our team members come from leading tech giants, having deeply contributed to billion-user-scale projects such as WeChat Pay, WeChat Red Packet, WeBank, and Tencent Billing. They possess extensive experience in designing and implementing architectures for massive-scale concurrent systems.
+In backend system development, the team has consistently practiced and developed core technical capabilities in high availability, high consistency, high scalability, and high security. In billion-user financial scenarios, they have honed AI algorithm engineering capabilities, including complex scenario modeling, high-concurrency inference architectures, and data-closed-loop toolchain development. This encompasses the full-stack technical expertise in multimodal model design, training optimization, and real-time inference. [About US](https://happybayes.github.io/)
+2. Built on Tencent Cloud Ecosystem, Ensuring Continuous and Stable Operations
+Leveraging Tencent Cloud's leading capabilities in elastic scaling, horizontal expansion, flexible scheduling, privacy protection, and comprehensive monitoring, our BaaS platform provides continuous and stable operational assurance for various types of users. This empowers systems to effortlessly handle traffic peaks and complex business scenarios.
+3. Innovating the Next-Generation AI-Native Backend-as-a-Service Platform
+Combining our team's extensive experience in ultra-large-scale projects with Tencent Cloud's technical advantages, we have designed a groundbreaking Backend-as-a-Service (BaaS) platform tailored for internet users. Featuring intelligent elastic architecture, embedded AI components, adaptive security systems, and a data intelligence hub, the platform is dedicated to providing secure, reliable, efficient, and customized backend infrastructure for individual and enterprise users, enabling rapid business deployment and scalable growth.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
 
 For more info
 ------
