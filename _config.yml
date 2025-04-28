@@ -23,9 +23,9 @@ repository               : "happyBayes/happyBayes.github.io"
 author:
   # Biographic information
   avatar           : "cut.ai_logo.png"
-  name             : "cut.ai: Developing the Next-Generation AI-Native BaaS Platform"
+  name             : "CUT.AI"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Developing the Next-Generation AI-Native BaaS Platform"
   location         : "Earth"
   employer         : "cut.ai"
   uri              : # URL
