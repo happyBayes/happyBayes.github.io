@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "CUT.AI Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "CUT.AI ：Developing the Next-Generation AI-Native BaaS Platform！"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,6 +9,7 @@ redirect_from:
 
 
 
+------
 
 our roadmap
 ======
@@ -44,3 +45,7 @@ In backend system development, the team has consistently practiced and developed
 Leveraging Tencent Cloud's leading capabilities in elastic scaling, horizontal expansion, flexible scheduling, privacy protection, and comprehensive monitoring, our BaaS platform provides continuous and stable operational assurance for various types of users. This empowers systems to effortlessly handle traffic peaks and complex business scenarios.
 3. Innovating the Next-Generation AI-Native Backend-as-a-Service Platform
 Combining our team's extensive experience in ultra-large-scale projects with Tencent Cloud's technical advantages, we have designed a groundbreaking Backend-as-a-Service (BaaS) platform tailored for internet users. Featuring intelligent elastic architecture, embedded AI components, adaptive security systems, and a data intelligence hub, the platform is dedicated to providing secure, reliable, efficient, and customized backend infrastructure for individual and enterprise users, enabling rapid business deployment and scalable growth.
+
+For more info
+======
+coming soon~
