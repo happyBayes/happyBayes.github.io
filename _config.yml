@@ -22,7 +22,7 @@ repository               : "happyBayes/happyBayes.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "cut_ai.png"
+  avatar           : "JWELL.png"
   name             : "JWell.AI"
   pronouns         : # example: "she/her"  
   bio              : "Developing the Next-Generation AI-Native BaaS Platform"
