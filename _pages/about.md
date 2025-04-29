@@ -38,14 +38,20 @@ Build a developer community with a repository of plug-and-play use case projects
 
 About US
 ======
-1. Experienced Core Team
+
+1. Experienced Core Team.
+------
 Our team members come from leading tech giants, having deeply contributed to billion-user-scale projects such as WeChat Pay, WeChat Red Packet, WeBank, and Tencent Billing. We possess extensive experience in designing and implementing architectures for massive-scale concurrent systems.
 In backend system development, our team has consistently practiced and developed core technical capabilities in high availability, high consistency, high scalability, and high security.
-In billion-user financial scenarios, we have honed AI algorithm engineering capabilities, including complex scenario modeling, high-concurrency inference architectures, and data-closed-loop toolchain development. This encompasses the full-stack technical expertise in LMM algorithm design, training optimization, and real-time inference. 
-2. Built on Tencent Cloud Ecosystem, Ensuring Continuous and Stable Operations
+In billion-user financial scenarios, we have honed our AI algorithm engineering capabilities, including complex scenario modeling, high-concurrency inference architectures, and data closed-loop toolchain development. This encompasses full-stack technical expertise in LLM algorithm design, training optimization, and real-time inference.
+
+2. Built on Tencent Cloud Ecosystem, Ensuring Continuous and Stable Operations.
+------
 Leveraging Tencent Cloud's leading capabilities in elastic scaling, horizontal expansion, flexible scheduling, privacy protection, and comprehensive monitoring, our BaaS platform provides continuous and stable operational assurance for various types of users. This empowers systems to effortlessly handle traffic peaks and complex business scenarios.
-3. Innovating the Next-Generation AI-Native Backend-as-a-Service Platform
-Combining our team's extensive experience in ultra-large-scale projects with Tencent Cloud's technical advantages, we have designed a groundbreaking Backend-as-a-Service (BaaS) platform tailored for internet users. Featuring intelligent elastic architecture, embedded AI components, adaptive security systems, and a data intelligence hub, the platform is dedicated to providing secure, reliable, efficient, and customized backend infrastructure for individual and enterprise users, enabling rapid business deployment and scalable growth.
+
+3. Innovating the Next-Generation AI-Native Backend-as-a-Service Platform.
+------
+Combining our team's extensive experience in ultra-large-scale projects with Tencent Cloud's technical advantages, we have designed a groundbreaking Backend-as-a-Service (BaaS) platform tailored for users. Featuring intelligent elastic architecture, embedded AI components, adaptive security systems, and a data intelligence hub, the platform is dedicated to providing secure, reliable, efficient, and customized backend infrastructure for individual and enterprise users, enabling rapid business deployment and scalable growth.
 
 For more info
 ======
